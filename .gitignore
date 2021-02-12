@@ -5,4 +5,4 @@
 #Ignore the sql backup file
 #
 my-wp-backup.sql
-my-wp-detest.sql
+my-detest.sql
